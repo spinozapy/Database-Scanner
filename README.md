@@ -75,7 +75,7 @@ Choose a database type to scan (type 'exit' to quit):
 2  = PostgreSQL
 3  = SQLite
 
-root@scanner:~$ 1
+root@you:~$ 1
 [Database Scanner]: Enter MySQL host: localhost
 [Database Scanner]: Enter MySQL user: root
 [Database Scanner]: Enter MySQL password: mypassword
