@@ -1,0 +1,3 @@
+pymysql
+psycopg2
+colorama
